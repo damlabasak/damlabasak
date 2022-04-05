@@ -1,5 +1,4 @@
 # Hi, I'm Damla
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161739679-d1d6f3c5-41de-4db1-9f11-0935cbc95bf5.gif" width="220" height="200" />
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161740609-91fe60de-325c-4190-a3f3-99ab3c9d9be2.gif" width="220" height="200" />
 

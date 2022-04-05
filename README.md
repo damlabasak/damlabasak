@@ -1,6 +1,6 @@
 # Hi, I'm Damla
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161741573-3205f577-256c-45cd-bc3e-3b0150572624.gif" width="400" height="100" />
-<img align="top" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161750926-bff50aef-5abd-4b22-adc5-85bc497ba471.gif" width="200" height="100" />
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161741573-3205f577-256c-45cd-bc3e-3b0150572624.gif" width="400" height="100" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161750926-bff50aef-5abd-4b22-adc5-85bc497ba471.gif" width="200" height="100" />
 <br />
 
 ## Junior Computer Engineer 🚀

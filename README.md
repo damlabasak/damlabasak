@@ -14,5 +14,5 @@
 [gmail]: mailto:kocakdamlabasak@gmail.com
 <br />
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=damlabkocak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damlabkocak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=damlabkocak&show_icons=true&theme=radical&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damlabkocak&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>

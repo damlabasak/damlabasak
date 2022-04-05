@@ -17,6 +17,10 @@
 <img align="left" alt="json" width="24px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/json/json.png" />
 
 <br />
+<br />
+<br />
 
 <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=damlabkocak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+<br />
+
 <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damlabkocak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>

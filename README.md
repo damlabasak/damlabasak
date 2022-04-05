@@ -1,5 +1,5 @@
 # Hi, I'm Damla
-<img align="top" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161741573-3205f577-256c-45cd-bc3e-3b0150572624.gif" width="400" height="100" />
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161741573-3205f577-256c-45cd-bc3e-3b0150572624.gif" width="400" height="100" />
 
 
 ## Junior Computer Engineer 🚀

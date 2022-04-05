@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161740609-91fe60de-325c-4190-a3f3-99ab3c9d9be2.gif" width="220" height="200" />
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161742556-3a784ee9-4b6d-4a25-b24c-d38cbf27f60b.gif" width="220" height="300" />
 
-## I'm a Student 🎓, Junior Computer Engineer 🚀
+## Junior Computer Engineer 🚀
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />

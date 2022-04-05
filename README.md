@@ -1,9 +1,9 @@
 # Hi, I'm Damla
-<img align="top" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161741573-3205f577-256c-45cd-bc3e-3b0150572624.gif" width="400" height="100" />
+
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161740609-91fe60de-325c-4190-a3f3-99ab3c9d9be2.gif" width="220" height="200" />
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161742556-3a784ee9-4b6d-4a25-b24c-d38cbf27f60b.gif" width="220" height="300" />
-
+<img align="top" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161741573-3205f577-256c-45cd-bc3e-3b0150572624.gif" width="400" height="100" />
 ## I'm a Student 🎓, Junior Computer Engineer 🚀
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]

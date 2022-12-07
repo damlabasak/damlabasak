@@ -1,7 +1,7 @@
 # Hi, I'm Damla
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/72323632/161741573-3205f577-256c-45cd-bc3e-3b0150572624.gif" width="400" height="100" />
 
-## Junior Computer Engineer 🚀
+## Computer Engineer 🚀
 
 <img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />
 <img align="left" alt="Git" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />

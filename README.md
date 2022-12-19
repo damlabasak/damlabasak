@@ -1,5 +1,5 @@
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/croAim2N8Cf0k/giphy.gif" width="250" height="250"/>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/croAim2N8Cf0k/giphy.gif" width="250" height="250"/>
 
 
 ## Computer Engineer 🚀

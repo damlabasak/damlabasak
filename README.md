@@ -1,6 +1,9 @@
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/croAim2N8Cf0k/giphy.gif" width="250" height="250"/>
-
+<img align="left" alt="GIF" src="https://media.giphy.com/media/croAim2N8Cf0k/giphy.gif" width="250" height="250"/>
+&nbsp;
+&nbsp;
+&nbsp;
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damlabkocak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
 ## Computer Engineer 🚀
 
@@ -15,10 +18,3 @@
 <img align="left" alt="less" width="24px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/less/less.png" />
 <img align="left" alt="mongodb" width="24px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/mongodb/mongodb.png" />
 <img align="left" alt="json" width="24px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/json/json.png" />
-
-<br />
-<br />
-<br />
-
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damlabkocak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
-

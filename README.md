@@ -1,5 +1,5 @@
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/croAim2N8Cf0k/giphy.gif" width="155" height="155"/> |  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damlakocak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/croAim2N8Cf0k/giphy.gif" width="155" height="155"/> |  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damlabasak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 :-------------------------:|:-------------------------:
 
 ## Computer Engineer 🚀

@@ -1,6 +1,5 @@
 ## Computer Engineer 🚀
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/croAim2N8Cf0k/giphy.gif" width="155" height="155"/> |  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damlabasak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 :-------------------------:|:-------------------------:
 
 - 🔭 I’m currently working on **[@zingat.com](https://github.com/zingat)**

@@ -16,4 +16,4 @@
 <img align="left" alt="mongodb" width="24px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/mongodb/mongodb.png" />
 <img align="left" alt="json" width="24px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/json/json.png" />
 <img align="left" alt="bootstrap" width="24px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="postman" width="24px" src="https://www.pngwing.com/en/free-png-ahmat" />
+

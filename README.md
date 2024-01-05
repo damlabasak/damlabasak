@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **zingat.com**
+- 🔭 I’m currently working on **@zingat.com**
 
 - 🌱 I’m currently learning **Vue.js**
 

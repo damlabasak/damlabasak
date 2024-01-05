@@ -1,7 +1,5 @@
 ## Computer Engineer 🚀
 
-:-------------------------:|:-------------------------:
-
 - 🔭 I’m currently working on **[@zingat.com](https://github.com/zingat)**
 
 - 🌱 I’m currently learning **Vue.js**

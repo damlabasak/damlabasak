@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **[@zingat.com](https://github.com/zingat)**
 
-- 🌱 I’m currently learning **Vue.js**
-
 - 📫 How to reach me **kocakdamlabasak@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/damlabasak/](https://www.linkedin.com/in/damlabasak/)

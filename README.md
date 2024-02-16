@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **kocakdamlabasak@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/damlabasak/](https://www.linkedin.com/in/damlabasak/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/damlabasak/](https://www.linkedin.com/in/damlabasak/) 
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@damlabasak" height="15" width="20" /> Click to go to <a href="https://medium.com/@damlabasak" target="blank">Medium</a>
 <h3 align="left">Languages and Tools:</h3>

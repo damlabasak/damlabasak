@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer | Frontend Developer</h3>
 
 <p align="center">
-🚀 React • Next.js • TypeScript • UI/UX Focused
+🚀 React • Next.js • TypeScript • React Native • UI/UX Focused
 </p>
 
 ---

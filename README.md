@@ -41,14 +41,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-* 🔗 Wedding Playlist App (React Native)
-* 🔗 QR Photo Sharing App (Event-based upload system)
-* 🔗 Accessibility Widget (React + Tailwind)
-
----
-
 ### ⚡ Fun Fact
 
 > If the UI isn’t clean, it bothers me 😄

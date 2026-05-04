@@ -26,9 +26,11 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,webpack,babel,cypress" />
-</p>
+* **Frontend:** React, Next.js, Vue.js, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap
+* **Mobile:** React Native (Expo), Cross-platform development
+* **Backend:** Node.js, Express
+* **Database:** MongoDB, Firebase
+* **Tools:** Git, Postman, Cypress, Webpack, Babel
 
 ---
 
